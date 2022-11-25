@@ -19,3 +19,7 @@ canvas{
     border-radius: 5px;
 }
 
+button{
+    background-color: aliceblue;
+    background-size: 50px;
+}
